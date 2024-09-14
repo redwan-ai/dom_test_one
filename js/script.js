@@ -1,1 +1,3 @@
-console.log("This is Starting of DOM");
+alert("Hello! Fuck you Microsoft!!");
+document.getElementById('domuse');
+console.log('alert');
